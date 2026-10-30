@@ -1,0 +1,6 @@
+build/
+keystore.jks
+*.class
+
+# JBenchmark.jar is (c) 2005 Kishonti LP — fetched by build.sh, not committed
+app/src/main/assets/JBenchmark.jar
