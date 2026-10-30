@@ -1,4 +1,8 @@
-# BenchMemories
+<p align="center">
+  <img src="icon.png" width="144" alt="BenchMemories icon">
+</p>
+
+<h1 align="center">BenchMemories</h1>
 
 **JBenchmark 1.1.1** (Kishonti LP, 2005) running natively on Sony
 PlayMemories cameras' hidden Android subsystem — built for the
@@ -102,6 +106,9 @@ Expect ~50 s of 100 % CPU for the 5 × 10 s tests, then the results form.
 
 - **v1.0** — first release: original jar classes dexed unmodified,
   18-class MIDP-1.0/CLDC shim, software renderer, baked settings.
+- **v1.1** *(current, versionCode 2)* — launcher app renamed to
+  **BenchMemories**; new author-supplied icon (BM + camera, shown at the
+  top of this README).
 
 ## Credits
 
